@@ -1,5 +1,4 @@
 #Eclipse files
-/bin/
 /.settings/
 .classpath
 .project
@@ -7,6 +6,8 @@
 #Intellij files
 .idea/
 *.iml
+*.xml
+*.properties
 out/
 
 #Overige files
