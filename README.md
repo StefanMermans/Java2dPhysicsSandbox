@@ -4,4 +4,4 @@ This is a project I made in my first year at the Avans hogeschool Breda. It's my
 
 Dependencies
     
-    -jbox2d 2.2.1.1 (https://github.com/jbox2d/jbox2d)
+-jbox2d 2.2.1.1 (https://github.com/jbox2d/jbox2d)
